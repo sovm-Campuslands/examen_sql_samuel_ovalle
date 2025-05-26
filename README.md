@@ -10,6 +10,14 @@ En esta documentación encontrará información que le permita ejecutar en un en
 - [@sovm](https://www.github.com/ovasam)
 
 
+## Installation
+
+Install mysql-workbench and create a new mysql connection
+then copy and paste following the correct way.
+First: Copy and paste create_table.sql and hit ctrl + enter
+Second: Copy and paste insert_data.sql and hit ctrl + enter
+
+These options let you use an environment in mysql workbench
 
 
 ## 
